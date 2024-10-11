@@ -1,0 +1,7 @@
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\obj\Debug\orai_munka_2.feladat.csproj.AssemblyReference.cache
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\obj\Debug\orai_munka_2.feladat.csproj.CoreCompileInputs.cache
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\bin\Debug\orai_munka_2.feladat.exe.config
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\bin\Debug\orai_munka_2.feladat.exe
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\bin\Debug\orai_munka_2.feladat.pdb
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\obj\Debug\orai_munka_2.feladat.exe
+C:\Users\BirinyiJZ\Gitwork\orai_munka_2.feladat\obj\Debug\orai_munka_2.feladat.pdb
