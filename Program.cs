@@ -28,15 +28,18 @@ namespace orai_munka_2.feladat
         }
         public static void Bank()
         {
-            Console.WriteLine("Hány éves?: ");
-            Console.WriteLine("Mennyi pénzt tesz be a bankba?: ");
+            Console.Write("Mennyi pénzt tesz be a bankba?: ");
+            string pénz = Console.ReadLine();
+            Console.Write("Hány évre rakja be?: ");
+            string ev = Console.ReadLine();
 
-
+            Console.WriteLine("A betétel után {0} forint marad.");
 
         }
         static void Main(string[] args)
         {
             Udvozol();
+            Bank();
         }
     }
 }
